@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">FlowerApplication</string>
+    <string-array name="flower_name">
+        <item>Red Rose</item>
+        <item>Yellow Rose</item>
+        <item>Blue Rose</item>
+        <item>Sunflower</item>
+        <item>Daisy</item>
+        <item>Tulip</item>
+        <item>Calla Lily</item>
+        <item>Carnation</item>
+        <item>Cornflower</item>
+        <item>Narcissus</item>
+        <item>Iris</item>
+        <item>Lavender</item>
+        <item>Magnolia</item>
+        <item>Orchid</item>
+        <item>Peony</item>
+    </string-array>
+
+    <string-array name="flower_symbolism">
+        <item>Love</item>
+        <item>Friendship Caring</item>
+        <item>Mystery</item>
+        <item>Worship Adoration</item>
+        <item>Innocence Purity </item>
+        <item>True Undying love </item>
+        <item>Purity Integrity </item>
+        <item>Admiration Passion </item>
+        <item>Hope Rememberance </item>
+
+        <item>Rebirth Renewal</item>
+        <item>Wisdom Power Hope </item>
+
+        <item>Devotion Purity</item>
+        <item>Endurance Longevity</item>
+
+        <item>Thoughtfulness Refinement Fertility</item>
+        <item>Honor Happiness wealth</item>
+    </string-array>
+
+    <string-array name="flower_story">
+        <item>Roses have been naturally growing for over 35 million years! The usage began not just as a decorative touch to one’s home, but they were also used for medicinal purposes and to make perfumes, and their petals were even used as confetti for festive occasions.
+            Fill a vase three-fourths full of fresh, cool tap water. The roses will absorb the water, soaking up the nutrients that will travel up to the bloom and create a lively flower. Check the water level in your rose’s vase every day and add more water as needed. </item>
+        <item>Yellow roses grew wild in the Middle East and gained international interest in the 18th century.</item>
+        <item>Blue roses are often used to symbolize mystery or attaining the impossible. However, because of genetic limitations, they do not exist in nature. In 2004, researchers used genetic modification to create roses that contain the blue pigment delphinidin.</item>
+        <item>Native Americans view sunflowers as a symbol of harvest and bounty since the flower provides seeds and pigments.
+            Sunflowers need direct sunlight for six to eight hours per day and require hot conditions to flower well.
+            Sunflowers also have long roots that require plenty of room to spread out, so soil should be well dug and not too dense for growth.
+            In addition to being great in a garden, sunflowers make great gifts and look wonderful in bouquets. </item>
+        <item>Daisies are a very popular flower that can be found on every continent other than Antarctica. They belong to one of the largest known plant families and symbolized innocence, a connotation that comes from the Victorian era.
+            Based on what color the daisy is, the flower can take on a different meaning. Daisy flowers prefer full sun and average soil conditions.
+            Depending on the variety, they can grow anywhere from 8 inches to 4 feet. Care tip: Only water during the summer if rainfall is less than 1 inch per week. </item>
+        <item>There are over 150 species and 3,000 varieties of tulips, which are part of the lily family. As a signal of the arrival of spring, these blooms are often associated with Easter.
+            At one point, tulips were more valuable than gold in Holland during a period called “Tulip Mania,” and their popularity has only spread with time.
+            Tulip bulbs should be planted in the fall, in areas where they can receive partial to full sun. Tulips will fare better in soil that allows for drainage, since over-watering will drown the bulb and roots.</item>
+        <item>The calla lily, sometimes also called the arum lily, is associated with faith and purity.
+            For this reason, religious figures like the Virgin Mary are often depicted holding a bouquet of calla lilies.
+            Popular flower for sympathy occasions.
+            These beauties grow in full to partial sunlight and should be planted in spring to bloom in late summer. With continued care, they can grow up to 2 feet tall! Once cut, calla lilies can last two weeks in a vase.</item>
+        <item>They come in three different types: large-flowered carnations (florist’s carnation), spray carnations, and dwarf flowered carnations. Large-flowered carnations can grow to over 20 inches high with one large bloom per stem. Spray and dwarf carnations have smaller blooms but multiple blooms per stem. These carnations grow to 12 inches and are more commonly found in gardens. When planting carnations, take care to plant them in well-draining soil and in an area with ample sunlight. </item>
+        <item>Rebirth Renewal</item>
+        <item>Wisdom Power Hope </item>
+        <item>Daffodils go by many names depending on the species and variety — narcissus, jonquils, or paperwhites — but they are all daffodils and they all belong to the genus Narcissus. These iconic flowers are perennial bulbs that are very easy to grow. They will multiply every year in the garden as long as they have good soil with adequate drainage. They are deer resistant and possess a natural pesticide, so few insects bother them other than for pollination. Daffodils are the national flower of Wales and the 10th anniversary posy. </item>
+        <item>They grow from either perennial rhizomes or bulbs, and range in size from 8 to 36 inches high, with flat, sword-shaped or curved leaves, and purple, yellow, orange, blue, or white flowers, depending on the species and variety. The rhizomes of some iris species are called orrisroot and are used in perfumery and for potpourris.
+            They are the state flower of Tennessee, the 25th wedding anniversary flower, and the national symbol of France, from the fleur-de-lis, a graphic representation of the iris. Irises also make great gifts for anyone in your life, particularly if you are looking for a non-traditional flower.</item>
+        <item>More than 40 species are native to areas surrounding the Mediterranean and are semi-evergreen perennials or sub-shrubs with gray-green, hairy, linear leaves and purple, violet, lavender, or pinkish-white flowers.
+            Tiny glands on the flowers, leaves, and stems of the plant produce the scented oil that is used in perfumes, bath preparations, lavender water, and in aromatherapy to relieve stress and anxiety and bring about sleep.
+            Lavender is also prized as a flavoring in cooking, as an ingredient in teas, and for a monofloral honey. </item>
+        <item></item>
+        <item>Scientists speculate that orchids have been around as long as 100 million years. Some of the most popular types of the more than 30,000 that exist are phalaenopsis, dendrobium, cattleya, and vanilla.
+            Orchids generally represent love, fertility, thoughtfulness, and charm. However, each variety of these flower types has its own color and meaning. Phalaenopsis orchids symbolize health and prosperity, while dendrobium represent wisdom and beauty.
+            Cymbidium symbolize strength and nobility, and oncydium orchids symbolize love and talent.</item>
+        <item>These flowers make stunning centerpieces and work great in large bouquets. The key to growing a thriving peony is to make sure you plant it at the right time, plant correctly, and, of course, care for it all throughout the year, even when it isn’t necessarily in season.
+            Since peonies can grow rather tall (sometimes as tall as 5 feet!), you’ll need to make sure that the spot you choose is spacious enough.
+            And remember, peonies can come back year after year, so you’ll need to think long term.</item>
+    </string-array>
+
+</resources>

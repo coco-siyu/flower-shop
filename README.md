@@ -12,9 +12,8 @@ A responsive web application for an online flower boutique. Built as part of my 
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript (optionally React or Vue if applicable)
-- **Backend**: (Add if applicable: Flask, Node.js, Django, etc.)
-- **Database**: (Add if applicable: SQLite, MongoDB, PostgreSQL)
+- **Frontend**: HTML, CSS, JavaScript 
+- **Database**: SQLite
 - **Tools**: Git, GitHub, VS Code
 
 ## 📂 Project Structure
@@ -26,4 +25,4 @@ flower-shop/
 ├── js/                   # Scripts
 ├── index.html            # Home page
 ├── product.html          # Example product page
-└── README.md             # You're here!
+└── README.md             

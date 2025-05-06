@@ -2,8 +2,6 @@
 
 A responsive web application for an online flower boutique. Built as part of my portfolio to demonstrate full-stack development skills, clean UI design, and smooth user interaction.
 
-![flower-shop-banner](./assets/banner.png) <!-- Optional: include a screenshot or banner -->
-
 ## 🚀 Features
 
 - 🛒 Browse and add flowers to cart

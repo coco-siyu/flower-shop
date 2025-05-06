@@ -16,13 +16,4 @@ A responsive web application for an online flower boutique. Built as part of my 
 - **Database**: SQLite
 - **Tools**: Git, GitHub, VS Code
 
-## 📂 Project Structure
-
-```bash
-flower-shop/
-├── assets/               # Images, icons, etc.
-├── css/                  # Stylesheets
-├── js/                   # Scripts
-├── index.html            # Home page
-├── product.html          # Example product page
-└── README.md             
+       
